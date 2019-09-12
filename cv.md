@@ -1,16 +1,30 @@
-What should a Junior Developer Resume contain?
+## Самаркина Алена Вячеславовна
+### Контактные данные
+ - тел: +7-927-613-85-19
+ - почта: opal-nii@yandex.ru
+ - skype: opal_nii
 
-! Important: write your Resume in English if you can, if possible
+### Общая информация
+Моя текущая __цель__ на данный момент это смена деятельности в IT направлении. Ранее я работала специалистом службы Service Desk, но теперь хочу попробовать себя в Front-end направлении веб-разработки. Я решила попробовать свои силы и начала обучение в **Rolling Scopes School**.
+### Навыки
+Базовые знания: HTML, CSS, JS, Javascript, Photoshop, Git.
+### Опыт
+Опыт работы с графикой и версткой: Отрисовка и верстка макетов для веб-форумов - mybb, forumbb. 
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Работа с изображениями в Photoshop: редактирование фотографий, создание коллажей, создание частей макета сайта.
+
+Самостоятельное изучение: Java на сайте [Java-rush](https://javarush.ru/ "Сайт Java-rush").
+
+Прохождение курсов HTML и CSS на сайте [htmlacademy](https://htmlacademy.ru/ "Сайт htmlacademy").
+
+Изучение учебника по JavaScript на [learn.javascript](https://learn.javascript.ru "Сайт learn.javascript").
+### Образование
+
+![alt-лого ПГУТИ](https://samarkinaav.github.io/rsschool-cv/assets/logo_psuti.png "лого ПГУТИ")
+
+Высшее образование: *Поволжский государственный университет телекоммуникаций и информатики*. 
+
+Профиль: *Управление и информатика в технических системах*.
+### Уровень иностранного языка
+Английский уровень - `pre-intermediate`.
+
