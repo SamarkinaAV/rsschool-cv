@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Alena Samarkina - CV</title>
+  <link rel="stylesheet" href="./assets/normalize.css">
+  <link rel="stylesheet" href="./assets/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+</head>
+
+<body>
+  <header class="header" id="header">
+    <div class="container">
+      <div class="author">
+        <img class="header__photo" src="./assets/myphoto.jpg" alt="My photo" width="150" height="150">
+        <h1 class="header__name">Alena Samarkina</h1>
+        <h2 class="header__occupation">junior frontend developer</h2>
+      </div>
+      <nav class="header__nav">
+        <ul class="nav__items">
+          <li class="nav__item"><a class="nav__link" href="#about">About me</a></li>
+          <li class="nav__item"><a class="nav__link" href="#education">Education & Experience</a></li>
+          <li class="nav__item"><a class="nav__link" href="#footer">Contacts</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="columns">
+      <section class="about" id="about">
+        <h2>A few words about me</h2>
+        <p>My current goal at the moment is a change of activity in the IT direction. Previously, I worked as a Service Desk specialist, but now I want to try myself in the Front-end direction of web development.</p>
+            <p>I decided to try my hand and started training at Rolling Scopes School.</p>
+      </section>
+
+      <section class="contacts">
+        <h2>Contacts</h2>
+        <ul class="contacts__items">
+          <li class="contacts__item contacts__item--phone"><a class="contacts__link" href="tel:+7-927-613-85-19">+7-927-613-85-19</a></li>
+          <li class="contacts__item contacts__item--email"><a class="contacts__link"
+              href="mailto:opal-nii@yandex.ru">opal-nii@yandex.ru</a></li>
+          <li class="contacts__item contacts__item--skype"><a class="contacts__link"
+              href="skype:opal_nii">skype: opal_nii</a></li>
+        </ul>
+      </section>
+    </div>
+
+    <div class="columns">
+      <section class="education" id="education">
+        <h2>Education</h2>
+        <p>
+          I graduated from Higher education: Volga State University of Telecommunications and Informatics.
+        </p>
+          <p> Profile: Management and computer science in technical systems.</p>
+            <p>English level - pre-intermediate.</p>
+
+        <div class="education__courses">
+          <h2>Courses & projects</h2>
+          <ul class="courses__items">
+            <li class="courses__item"><a href="https://htmlacademy.ru/profile/id464273" target="_blank">My progress
+                on HTML Academy interactive courses</a></li>
+            <li class="courses__item"><a href="https://github.com/SamarkinaAV" target="_blank">My Github profile</a>
+            <li class="courses__item"><a href="https://javarush.ru/users/1342675" target="_blank">My progress 
+              on javarush courses</a></li>
+            <li class="courses__item"><a href="https://learn.javascript.ru" target="_blank">Learning JavaScript
+               tutorial on learn.javascript</a></li>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="skills">
+        <h2>Skills</h2>
+        <div class="skills__items">
+          <dl>
+          <dt>Photoshop</dt>
+          <dd><div class="skills__level skills__level__ok" style="width: 60%;">60%</div></dd>
+          <dt>HTML</dt>
+          <dd><div class="skills__level skills__level__ok" style="width: 50%;">50%</div></dd>
+          <dt>CSS</dt>
+          <dd><div class="skills__level" style="width: 20%;">20%</div></dd>
+          <dt>JS</dt>
+          <dd><div class="skills__level" style="width: 10%;">10%</div></dd>
+        </dl>
+      </div>
+      </section>
+    </div>
+
+    <div class="to-top">
+      <a href="#header">go to top</a>
+    </div>
+  </main>
+
+  <footer class="footer" id="footer">
+    <div class="container">
+      <h3>contact me:</h3>
+      <ul class="footer__contacts">
+        <li class="contacts__icon contacts__icon--phone "><a href="tel:+7-927-613-85-19">+7-927-613-85-19</a></li>
+        <li class="contacts__icon contacts__icon--email visually-hidden"><a
+            href="mailto:opal-nii@yandex.ru">opal-nii@yandex.ru</a></li>
+        <li class="contacts__icon contacts__icon--github visually-hidden"><a href="https://github.com/https://github.com/SamarkinaAV"
+            target="_blank">My Github profile</a></li>
+        <li class="contacts__icon contacts__icon--skype visually-hidden"><a href="skype:opal_nii"
+            target="_blank">my skype</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script
+    src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+  <script>let scroll = new SmoothScroll('a[href*="#"]');</script>
+</body>
+
+</html>
